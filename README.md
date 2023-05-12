@@ -12,5 +12,5 @@ Para os cálculos do projeto foi levado em conta os seguites dados:
 
 Contato: contato@thiagodiniz.dev
 
-
+Para usar ele: http://thiagodiniz.dev/projetos/churrascometro
  
